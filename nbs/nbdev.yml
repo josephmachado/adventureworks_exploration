@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "adventureworks_exploration"
+  site-url: "https://josephmachado.github.io/adventureworks_exploration"
+  description: "Exploring Adventureworks dataset"
+  repo-branch: main
+  repo-url: "https://github.com/josephmachado/adventureworks_exploration"
